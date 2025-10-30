@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271240144270",
+    "project_id": "adbelm",
+    "storage_bucket": "adbelm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271240144270:android:2e39bc514a9d49f0d2f0df",
+        "android_client_info": {
+          "package_name": "com.adbelm.amazegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271240144270-jsreb0fu5dp3bncn6irijo57jic4vbat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeGsxHy4UGKnu7qpr--wkPB25ferFaJI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271240144270-jsreb0fu5dp3bncn6irijo57jic4vbat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
