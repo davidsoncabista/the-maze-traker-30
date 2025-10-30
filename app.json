@@ -20,7 +20,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.anonymous.the-maze-traker-30"
+      "package": "com.anonymous.the_maze_traker_30"
     },
     "web": {
       "output": "static",
